@@ -1,0 +1,3 @@
+function aufruf(){
+    alert('Grundschulmathe');
+}
