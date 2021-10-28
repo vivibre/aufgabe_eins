@@ -1,3 +1,3 @@
-function aufruf(){
-    alert('Grundschulmathe');
-}
+alert('Grundschulmathe');
+
+
