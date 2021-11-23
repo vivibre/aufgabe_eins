@@ -1,4 +1,10 @@
+"use strict";
+
 alert('Grundschulmathe');
+
+//Addition
+var i = 0;
+var punkteAddition = 0;
 
 const a = Math.floor(Math.random() * 21);
 const b = Math.floor(Math.random() * 21);
